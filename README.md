@@ -1,1 +1,1 @@
-# payment-stripe-test
+# payment-test
